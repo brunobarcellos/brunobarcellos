@@ -10,8 +10,6 @@ No meu tempo livre, procuro estudar algoritmos focando em aplicações relaciona
 
 ## Atualmente estudando...
 
----
-
 <!-- Início da tabela -->
 
 | 🔬&nbsp;&nbsp;&nbsp;**O quê?**                                                                                                                                                       | 🔭&nbsp;&nbsp;&nbsp;**Onde?**                                                                                                                                                                       | 🎨&nbsp;&nbsp;&nbsp;**Como?**                                                                                                                                                                                                                                                                                  |
@@ -25,8 +23,6 @@ No meu tempo livre, procuro estudar algoritmos focando em aplicações relaciona
 
 ## Alguns locais onde estou...
 
----
-
 [<img src="icon/1727490_linkedin_social media_job_network_icon.png" alt="LinkedIn logo" title="LinkedIn" width="50" />](https://www.linkedin.com/in/brunobarcellos/)
 &nbsp;
 [<img src="icon/1782229_book_network_sharing_cataloging_social media_icon.png" alt="Goodreads logo" title="Goodreads" width="50" />](https://www.goodreads.com/user/show/42688217-bruno-barcellos)
@@ -37,8 +33,6 @@ No meu tempo livre, procuro estudar algoritmos focando em aplicações relaciona
 &nbsp;
 
 ## Créditos...
-
----
 
 [Imagem de cão com óculos](https://www.flaticon.com/br/stickers-pack/pets-92)
 
