@@ -35,6 +35,10 @@ estou sempre sem foco 👍  &nbsp; 🤦‍♂️  &nbsp; 🤷‍♂️
 [<img src="icon/1885169_social media_camera_instagram_app_photo_icon.png" alt="Instagram logo" title="Instagram" width="50" />](https://www.instagram.com/brunobarcellosf/)
 &nbsp;
 
+## O que andei ouvindo
+
+![Músicas tocadas recentemente](https://spotify-recently-played-readme.vercel.app/api?user=bruno_gallahad&count=6&unique=true)
+
 ## Créditos
 
 [Imagem de cão com óculos](https://www.flaticon.com/br/stickers-pack/pets-92)
